@@ -1,0 +1,6 @@
+val = input("Enter your value: ")
+print(val)
+c=int(val)
+print(c)
+print(type(c))
+print(type(val))
